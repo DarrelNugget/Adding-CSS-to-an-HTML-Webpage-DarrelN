@@ -1,0 +1,64 @@
+header {
+    border-bottom: solid 6px #7b7b7b;
+    line-height: 80px;
+}
+
+h2 {
+    border-bottom: solid 2px #7b7b7b;
+    text-align: center;
+}
+
+h3 {
+    color: #1577ff;
+    border-bottom: solid 2px #1577ff;
+    display: inline;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #00376c;
+}
+
+a {
+    color: #00376c;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+.story, .services, .locations {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 40px;
+    background-color: #e7e7e7;
+}
+
+img {
+    width: 150px;
+}
+
+section.services p {
+    font-style: italic;
+}
+
+footer {
+    font-style: italic;
+    padding: 10px;
+}
+
+footer, header {
+    text-align: center;
+    background-color: #c7e3ff;
+    margin-bottom: 40px;
+}
+
+
+
